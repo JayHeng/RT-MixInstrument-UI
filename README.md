@@ -3,7 +3,7 @@ A GUI tool based on Python3.6+PyQt5.13 for RT-MixInstrument | 一款基于i.MXRT
 
 ### 1 软件概览
 #### 1.1 介绍
-　　RT-MixInstrument-UI 是 [RT-MixInstrument-FW](https://github.com/JayHeng/RT-MixInstrument-FW) 项目的配套上位机工具，用于前期技术验证以及摆脱LCD屏的分辨率限制。  
+　　RT-MixInstrument-UI 是 [RT-MixInstrument](https://github.com/JayHeng/RT-MixInstrument) 项目的配套上位机工具，用于前期技术验证以及摆脱LCD屏的分辨率限制。  
 
 #### 1.2 下载
 　　RT-MixInstrument-UI 完全基于Python语言开发，并且源代码全部开源，其具体开发环境为Python 3.6.8 (64bit)、PyQt5 5.13.0、pyqt5-tools 5.13.0.1.5、pySerial 3.4、PyInstaller 3.3.1（或更高）。  
